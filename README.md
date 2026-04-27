@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+Problem+Solver;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=10000000&color=00F7FF&center=true&vCenter=true&width=700&lines=TechEnthusiast" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,springboot,python,mysql,git,github,postman,react" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,postman,react" />
 </p>
 
 ---
@@ -83,9 +83,8 @@
 <a href="https://www.linkedin.com/in/ponna-lokesh-kumar/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-</p>
-<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
 
 ---
 
