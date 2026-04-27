@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&pause=100000&repeat=false&color=00F7FF&center=true&vCenter=true&width=700&lines=Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=100000&repeat=false&color=00F7FF&center=true&vCenter=true&width=700&lines=Tech+Enthusiast" />
 </p>
 
 <p align="center">
@@ -11,17 +11,17 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Student  
-- 💻 Backend Developer (**Java + Spring Boot**)  
-- 🧠 Strong in **Data Structures & Algorithms**  
-- 🎯 Focused on cracking top tech roles  
+<p align="center">
+🎓 Computer Science Student &nbsp;|&nbsp; 💻 Java Backend Developer <br>
+🧠 DSA Enthusiast &nbsp;|&nbsp; 🎯 Focused on Top Tech Roles
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,postman,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,github,postman,react" />
 </p>
 
 ---
@@ -29,25 +29,25 @@
 ## 🧠 Coding Profiles
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/lokeshkumarponna?theme=dark&font=baloo&ext=heatmap" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/lokeshkumarponna?theme=dark&font=baloo&ext=heatmap" height="200"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problem%20Solving-★★★★★-2EC866?style=for-the-badge&logo=hackerrank" />
-<img src="https://img.shields.io/badge/Java-★★★★☆-2EC866?style=for-the-badge&logo=hackerrank" />
-<img src="https://img.shields.io/badge/SQL-★★★★☆-2EC866?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-★★★★★-2EC866?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Java-★★★★☆-2EC866?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/SQL-★★★★☆-2EC866?style=for-the-badge&logo=hackerrank" />
 </p>
 
 <p align="center">
-<a href="https://leetcode.com/u/lokeshkumarponna/">
-  <img src="https://img.shields.io/badge/LeetCode-Visit%20Profile-orange?style=for-the-badge&logo=leetcode" />
-</a>
-<a href="https://www.hackerrank.com/profile/lokeshkumarponna">
-  <img src="https://img.shields.io/badge/HackerRank-Visit%20Profile-green?style=for-the-badge&logo=hackerrank" />
-</a>
-<a href="https://takeuforward.org/profile/lokeshkumarponna">
-  <img src="https://img.shields.io/badge/TUF+-DSA%20Profile-blue?style=for-the-badge" />
-</a>
+  <a href="https://leetcode.com/u/lokeshkumarponna/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/lokeshkumarponna">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" />
+  </a>
+  <a href="https://takeuforward.org/profile/lokeshkumarponna">
+    <img src="https://img.shields.io/badge/TUF+-DSA%20Profile-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -80,11 +80,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ponna-lokesh-kumar/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-
+  <a href="https://www.linkedin.com/in/ponna-lokesh-kumar/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
