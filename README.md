@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=10000000&color=00F7FF&center=true&vCenter=true&width=700&lines=TechEnthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=0&color=00F7FF&center=true&vCenter=true&width=700&lines=TechEnthusiast" />
 </p>
 
 <p align="center">
